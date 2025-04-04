@@ -19,3 +19,4 @@ watson.microsoft.com
 watson.telemetry.microsoft.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
+www.tomshardware.com
