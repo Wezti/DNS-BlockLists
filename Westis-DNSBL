@@ -1,0 +1,21 @@
+# Title: Westis DNS Blocklist
+# Description: Frist Custom DNS Blocklist for OpnSense
+# Number of entries: -
+#
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
+kmwatsonc.telemetry.microsoft.com
+oca.microsoft.com
+oca.telemetry.microsoft.com
+settings-win.data.microsoft.com
+umwatsonc.events.data.microsoft.com
+umwatsonc.telemetry.microsoft.com
+v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+v10c.events.data.microsoft.com
+watson.microsoft.com
+watson.telemetry.microsoft.com
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net
